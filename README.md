@@ -1,5 +1,4 @@
 # Oyvind.W.N.-Zooomm-testcase
 Testcase for intervju med Øyvind Wien Nicolaysen 
 
-
-Åpne index.html filen i en nettleser for å kjøre nettsiden.
+Kjøring av nettsiden er kun å åpne index.html i en nettleser
