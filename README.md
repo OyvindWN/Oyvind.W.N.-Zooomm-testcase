@@ -1,4 +1,4 @@
-# Oyvind.W.N. Bird whatcher's news feed
+# Oyvind.W.N. Bird watcher's news feed
 
 Download the project and open the index.html file in a web browser.
 
