@@ -1,4 +1,7 @@
-# Oyvind.W.N.-Zooomm-testcase
-Testcase med Øyvind Wien Nicolaysen 
+# Oyvind.W.N. Bird whatcher's news feed
 
-Kjøring av nettsiden er kun å åpne index.html i en nettleser
+Download the project and open the index.html file in a web browser.
+
+This page features responsive design, uses JSONP and jquery
+
+The page is subject to a live rest api and so the page's content may vary.
